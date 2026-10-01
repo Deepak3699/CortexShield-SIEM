@@ -29,3 +29,10 @@ ENV/
 .idea/
 .vscode/
 *.log
+
+# Documentation & Drafts
+AI_API_EXPLANATION.md
+APPROACH_COMPARISON.md
+LogSentinel_Research_Paper_Draft.docx
+REMAINING_FEATURES.md
+
